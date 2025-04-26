@@ -1,7 +1,7 @@
 {
   "name": "teste-e2e-ebac",
   "version": "1.0.0",
-  "description": "",
+  "description": "Ebac shop: http://lojaebac.ebaconline.art.br/",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,6 +10,16 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "cypress": "^13.6.0"
-  }
+    "@faker-js/faker": "^9.7.0",
+    "cypress": "^14.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aalinedemorais/teste-e2e-ebac.git"
+  },
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/aalinedemorais/teste-e2e-ebac/issues"
+  },
+  "homepage": "https://github.com/aalinedemorais/teste-e2e-ebac#readme"
 }
