@@ -1,0 +1,14 @@
+[
+   {
+        "nomeProduto": "Atlas Fitness Tank", 
+        "tamanho": "S",
+        "cor": "Blue",
+        "quantidade": 10
+    },
+    {
+        "nomeProduto": "Cronus Yoga Pant", 
+        "tamanho": "36",
+        "cor": "Black",
+        "quantidade": 1
+    }
+]
